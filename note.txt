@@ -1,0 +1,8 @@
+1. git clone
+2. npm install =>vue js r jonno
+3. composer install => laravel r jonno
+4. npm run dev=> php artisan ser 
+5. env.example file copy kore .env
+6. database create korte hobe php myadmin  
+7. php artisan migrations
+8. finally run korte hoibe.........
